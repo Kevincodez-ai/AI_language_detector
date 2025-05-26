@@ -24,3 +24,4 @@ if st.button("Detect Language"):
 
         # Display result
         st.success(f"🗣️ Detected Language: **{prediction}**")
+#CREATED BY KEVIN JAMES.
